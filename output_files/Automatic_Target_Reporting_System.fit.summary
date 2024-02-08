@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Feb 08 10:42:40 2024
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : Automatic_Target_Reporting_System
+Top-level Entity Name : Automatic_Target_Reporting_System
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 1,888 / 6,272 ( 30 % )
+    Total combinational functions : 1,573 / 6,272 ( 25 % )
+    Dedicated logic registers : 1,174 / 6,272 ( 19 % )
+Total registers : 1174
+Total pins : 75 / 180 ( 42 % )
+Total virtual pins : 0
+Total memory bits : 66,040 / 276,480 ( 24 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )

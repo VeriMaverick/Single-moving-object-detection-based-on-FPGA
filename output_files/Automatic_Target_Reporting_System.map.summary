@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Feb 08 10:42:24 2024
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : Automatic_Target_Reporting_System
+Top-level Entity Name : Automatic_Target_Reporting_System
+Family : Cyclone IV E
+Total logic elements : 1,998
+    Total combinational functions : 1,571
+    Dedicated logic registers : 1,174
+Total registers : 1174
+Total pins : 75
+Total virtual pins : 0
+Total memory bits : 66,040
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
